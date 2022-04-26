@@ -9,7 +9,7 @@ I love programming and React.js framework is my favorite.
 - 💬 Ask me about React.js and React Native
 - 📫 How to reach me: joel.damian.echeverria@gmail.com
 
-#🔨 Languages and Tools:
+🔨 Languages and Tools:
 
 - React.js
 - React Native
